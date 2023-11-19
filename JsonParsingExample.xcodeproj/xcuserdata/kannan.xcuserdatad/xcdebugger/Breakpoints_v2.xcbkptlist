@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0579F71A-7E50-4AF8-A1EF-D691AD4CE7C7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB9D94CF-070B-4888-8AB2-C18F8833D263"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParsingExample/Model/Product.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "Product"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "EB9D94CF-070B-4888-8AB2-C18F8833D263 - 477ef653f2d360e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for dummyProduct"
+                  moduleName = "JsonParsingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kannan/Swift-Projects/Medium/JSONParsing/JsonParsingExample/JsonParsingExample/Model/Product.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "EB9D94CF-070B-4888-8AB2-C18F8833D263 - 3535ae709c9c2c5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JsonParsingExample.Product.dummyProduct.unsafeMutableAddressor : JsonParsingExample.Product"
+                  moduleName = "JsonParsingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kannan/Swift-Projects/Medium/JSONParsing/JsonParsingExample/JsonParsingExample/Model/Product.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6A330E6-144C-42C9-ADD0-5E93FFB6B1A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B6A330E6-144C-42C9-ADD0-5E93FFB6B1A7 - 6126cfd310ba4e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JsonParsingExample.NewProductView.body.getter : some"
+                  moduleName = "JsonParsingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kannan/Swift-Projects/Medium/JSONParsing/JsonParsingExample/JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "B6A330E6-144C-42C9-ADD0-5E93FFB6B1A7 - 6126cfd310ba4e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JsonParsingExample.NewProductView.body.getter : some"
+                  moduleName = "JsonParsingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kannan/Swift-Projects/Medium/JSONParsing/JsonParsingExample/JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "B6A330E6-144C-42C9-ADD0-5E93FFB6B1A7 - 6126cfd310ba4e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JsonParsingExample.NewProductView.body.getter : some"
+                  moduleName = "JsonParsingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kannan/Swift-Projects/Medium/JSONParsing/JsonParsingExample/JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "B6A330E6-144C-42C9-ADD0-5E93FFB6B1A7 - 6126cfd310ba4ef0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "JsonParsingExample.NewProductView.body.getter : some"
+                  moduleName = "JsonParsingExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kannan/Swift-Projects/Medium/JSONParsing/JsonParsingExample/JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "4DA5DF9F-7FF1-4648-9A4E-D1C096610B72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "00026009-35BE-4C87-BE59-5DE8DB66B03E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SwiftErrorBreakpoint">
+         <BreakpointContent
+            uuid = "222F0DA7-FA75-43AC-87D7-52F7509A1CA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.RuntimeIssueBreakpoint">
+         <BreakpointContent
+            uuid = "EA6C6842-81CA-41D5-BB4A-372F2A3BC1B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            type = "65535">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.IDEConstraintErrorBreakpoint">
+         <BreakpointContent
+            uuid = "34D04C4E-FFC5-45F0-A14F-633BA1271422"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67276974-2144-4C99-B62F-B2EF07B29347"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "write(array:filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7352BE83-682C-4CBC-B4DB-CD046783388D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JsonParsingExample/SwiftUIViews/Product/NewProductView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "write(array:filename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

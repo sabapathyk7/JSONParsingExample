@@ -1,0 +1,8 @@
+{
+  "name": "James",
+  "age": 45,
+  "gender": "Male",
+  "sign": "Sagitarius",
+  "partner": "Emily",
+  "isEmployed": true
+}
